@@ -1,5 +1,5 @@
 👋 Hi, I’m @cortlandjay
-- 👀 Interested in tackling complex challenges with significant impact
+- Interested in tackling complex AI implementation challenges
 - 🌱 Developing a team of AI agents capable of running a profitable company relatively autonomously.
 - 💞️ Looking to collaborate on AI projects 
 - 📫 Reach me at cort@cortdigital.com
